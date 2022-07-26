@@ -1,0 +1,2 @@
+module Module_2 {
+}
