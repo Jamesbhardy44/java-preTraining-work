@@ -1,0 +1,2 @@
+module for_loops {
+}
